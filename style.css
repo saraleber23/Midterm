@@ -1,0 +1,66 @@
+/* Styles for the index */
+h1 {
+font-family: serif;
+text-align: center;
+font-size: 35px;
+}
+
+img {
+width: 900px;
+height: auto;
+display: block;
+margin-left: auto; 
+margin-right: auto;
+}
+
+h2{
+    font-family: serif;
+    font: 32px;
+}
+body{
+    font-family: Helvetica,arial, sans-serif;
+    font-size: 16px;
+   text-align: center;
+}
+
+#byline {
+    font-size: 12
+    px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+blockquote {
+    font-size:25px;
+    font-family: cursive;
+    color: pink;
+}
+
+#content {
+    margin: 0 auto;
+    font-family: Helvetica,arial, sans-serif;
+    width: 900px;
+    font-family: Georgia, serif;
+    font-size:13px;
+    text-align: center;
+    }
+
+    .photo {
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13px;
+    }
+
+    figcaption {
+        text-align: left;
+        font-family:'Times New Roman', serif; 
+        font-size: 13px;
+    }
+
+    .links {
+        font-family: Cambria, serif;
+        color:pink;
+        font-size: 20px;
+        
+    }
+
+   
